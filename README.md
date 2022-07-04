@@ -1,4 +1,4 @@
-<h1>Welcome<h1>
+<h3 align="center">Welcome<h3>
 
 <!--
 **donguk1207/donguk1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
