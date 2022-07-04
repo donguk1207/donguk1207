@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=FFEFD5&height=300&section=header&text=WelCome%20&fontSize=90&fontColor=ffffff" />
-<h2 align="center">Introduce<br>
+<h2 align="center">Introduce🎨<br>
 <h4 align="center">안녕하세요🍀<br>제 이름은 이동욱이고 프론트엔드를 공부하고있어요!<br>저는 현재 광주소프트웨어 마이스터고에 재학중이고 뭐든 배우려는
 자세로 공부하고 있습니다.</h4><br><br>
  
@@ -15,6 +15,7 @@
 <href="https://www.instagram.com/dongwook1207/" target="_blank"><img src="https://img.shields.io/badge/Instargram-FFC0CB?style=flat-square&logo=Instagram&logoColor=white"/>
 <href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/>
 </p><br><br><br><br>
+
 <p align="center">
 <href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonguk1207&count_bg=%230D4204&title_bg=%23536708&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
 </p>
