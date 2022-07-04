@@ -14,5 +14,7 @@
 <p align="center">
 <href="https://www.instagram.com/dongwook1207/" target="_blank"><img src="https://img.shields.io/badge/Instargram-FFC0CB?style=flat-square&logo=Instagram&logoColor=white"/>
 <href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/>
+</p><br><br><br><br>
+<p align="center">
+<href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonguk1207&count_bg=%230D4204&title_bg=%23536708&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
 </p>
-
