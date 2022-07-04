@@ -2,6 +2,6 @@
 
 <h3 align="center">⚒️My Stack⚒️<h3>
 <a align="center">
-<img src="https://img.shields.io/badge/HTML-302683?style=for-the-badge&logo=h-HTML&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-302683?style=for-the-badge&logo=h-HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   </a>
