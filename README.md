@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
-<h1 align="center">Welcome<h1><br>
+<align="center" img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <h2 align="center">Introduce<h2>
 <h4 align="center">저는 프론트엔드에 관심이 있어서 html과css등을 공부하고 있는 이동욱이라고 합니다.</h4>
   
