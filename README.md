@@ -1,3 +1,3 @@
-<h1 align="center">Welcome<h1><br><br>
+<h1 align="center">Welcome<h1>
 
-<h3 align="center">⚒️my stack⚒️<h3>
+<p align="center">⚒️My Stack⚒️<p>
