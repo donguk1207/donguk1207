@@ -5,14 +5,14 @@
  
 <h3 align="center">✨My Tool✨<h3>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-7ED321?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-7FFFD4?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-FF6B00?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><br>
 </p><br><br>
 
 <h3 align="center">☁️SNS☁️</h3>
 <p align="center">
-<href="https://www.instagram.com/dongwook1207/" target="_blank"><img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<href="https://www.instagram.com/dongwook1207/" target="_blank"><img src="https://img.shields.io/badge/Instargram-FFC0CB?style=flat-square&logo=Instagram&logoColor=white"/>
 <href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 
