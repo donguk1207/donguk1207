@@ -1,7 +1,7 @@
-<h1 align="center">Welcome<h1><br>
+<h1 align="center">Welcome</h1><br>
 
 <h2 align="center">Introduce<h2>
-<a align="center">저는 프론트엔드에 관심이 있어서 html과css등을 공부하고 있는 이동욱이라고 합니다.</a><br>
+<h4 align="center">저는 프론트엔드에 관심이 있어서 html과css등을 공부하고 있는 이동욱이라고 합니다.</h4><br>
   
 <h3 align="center">⚒️My Stack⚒️<h3>
 <p align="center">
