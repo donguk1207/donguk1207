@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=CCEEFF&height=300&section=header&text=WelCome%20&fontSize=90" />
-<h2 align="center">Introduce<br><br>저는 프론트엔드에 관심이 있어서 html과css등을 공부하고 있는 이동욱이라고 합니다.h2>
+<h2 align="center">Introduce<br><br>저는 프론트엔드에 관심이 있어서 html과css등을 공부하고 있는 이동욱이라고 합니다.<h2>
   
 <h3 align="center">⚒️My Stack⚒️<h3>
 <p align="center">
