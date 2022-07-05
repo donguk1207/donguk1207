@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/HTML-FFDAB9?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-FF6B00?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Git-7FE719?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-119EFF?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/C-945DD6?style=for-the-badge&logo=C&logoColor=white">
 </p><br><br>
 
 <h3 align="center">☁️SNS☁️</h3>
