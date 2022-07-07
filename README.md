@@ -1,23 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FFEFD5&height=300&section=header&text=WelCome%20&fontSize=90&fontColor=ffffff" />
-<h2 align="center">Introduce🎨<br>
-<h4 align="center">안녕하세요🍀<br>제 이름은 이동욱이고 프론트엔드를 공부하고있어요!<br>저는 현재 광주소프트웨어 마이스터고에 재학중이고 뭐든 배우려는
-자세로 공부하고 있습니다.</h4><br><br>
- 
-<h3 align="center">✨My Tool✨<h3>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML-FFDAB9?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-FF6B00?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Git-119EFF?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/C-945DD6?style=for-the-badge&logo=C&logoColor=white">
-</p><br><br>
+<h1 align="center">Hi 👋, I'm dong wook</h1>
+<h3 align="center">A passionate frontend developer from korea</h3>
 
-<h3 align="center">☁️SNS☁️</h3>
-<p align="center">
-<href="https://www.instagram.com/dongwook1207/" target="_blank"><img src="https://img.shields.io/badge/Instargram-FFC0CB?style=flat-square&logo=Instagram&logoColor=white"/>
-<href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-8B89CC?style=flat-square&logo=Gmail&logoColor=white"/>
-</p><br><br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=donguk1207&label=Profile%20views&color=0e75b6&style=flat" alt="donguk1207" /> </p>
 
-<p align="center">
-<href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonguk1207&count_bg=%230D4204&title_bg=%23536708&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donguk1207" alt="donguk1207" /></a> </p>
+
+- 🔭 I’m currently working on **web-site**
+
+- 🌱 I’m currently learning **HTML,C,CSS,JavaScript**
+
+- 👯 I’m looking to collaborate on **welcome to korea**
+
+- 👨‍💻 All of my projects are available at [https://github.com/donguk1207](https://github.com/donguk1207)
+
+- 📫 How to reach me **leedongwook1207@naver.com**
+
+- ⚡ Fun fact **I am currently studying at Gwangju Software Meister High School.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/dongwook1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dongwook1207" height="30" width="40" /></a>
+<a href="https://discord.gg/이동욱#4487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="이동욱#4487" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donguk1207&show_icons=true&locale=en&layout=compact" alt="donguk1207" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donguk1207&show_icons=true&locale=en" alt="donguk1207" /></p>
