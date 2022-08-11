@@ -1,19 +1,6 @@
 <h1 align="center">Hi I'm dong wook☁️</h1>
 <h3 align="center">A passionate frontend developer from korea</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on **web-site**
-
-- 🌱 I’m currently learning **HTML,C,CSS,JavaScript**
-
-- 👯 I’m looking to collaborate on **welcome to korea**
-
-- 👨‍💻 All of my projects are available at [https://github.com/donguk1207](https://github.com/donguk1207)
-
-- 📫 How to reach me **leedongwook1207@naver.com**
-
-- ⚡ Fun fact **I am currently studying at Gwangju Software Meister High School.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dongwook1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dongwook1207" height="30" width="40" /></a>
