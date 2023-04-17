@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm dong wook☁️</h1>
-<h3 align="center">모바일 UIUX디자이너가 되고싶습니다!.</h3>
+<h3 align="center">모바일 UIUX 디자이너가 되고싶습니다!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
